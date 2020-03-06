@@ -1,0 +1,5 @@
+*.pdf
+*.csv
+*.zip
+Scientist_Testdata/
+__pycache__/
